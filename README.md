@@ -1,7 +1,9 @@
 # Avaliação N3 - Ciência de Dados: Previsão de Churn de Clientes
 
 **Alunos:** Israel Schroeder Moreira, Marco Leone Merini e Filipe Luiz Orlamunder
+
 **Data:** 01/12/2025  
+
 **Disciplina:** Ciência de Dados
 
 ---
