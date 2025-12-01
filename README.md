@@ -146,13 +146,3 @@ probabilities = model.predict_proba(novo_cliente)
    ```
 
 ---
-
-## Conclusão
-
-Este projeto demonstrou o ciclo completo de Ciência de Dados:
-- ✅ Definição clara do problema de negócio
-- ✅ Pipeline de dados documentado
-- ✅ Comparação de 3 modelos com 4 métricas
-- ✅ Deploy funcional com salvamento e reutilização
-
-O modelo de **Árvore de Decisão** foi escolhido por maximizar o **Recall**, permitindo identificar o maior número possível de clientes em risco de cancelamento para ações proativas de retenção.
